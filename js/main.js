@@ -1,0 +1,1 @@
+async function copydiscord(){try{await navigator.clipboard.writeText("xissayala")}catch(a){}alert("xissayala")}
