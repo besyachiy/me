@@ -1,1 +1,1 @@
-async function copydiscord(){try{await navigator.clipboard.writeText("xissayala")}catch(a){}alert("xissayala")}
+async function copydiscord(){try{await navigator.clipboard.writeText("besyachiy")}catch(a){}alert("besyachiy")}
